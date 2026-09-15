@@ -1,5 +1,5 @@
 ---
-title: Foundation Pillars of Object-Oriented Programming (OOP) in Java
+title: OOP - Foundation Pillars
 ---
 
 Object-Oriented Programming is a programming approach that organizes code around objects. An object contains data, called **fields**, and behavior, called **methods**.
