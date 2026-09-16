@@ -1,5 +1,6 @@
 ---
 title: OOP - Relationships in Java
+sidebar_position: 2
 ---
 
 ## 1. Dependency (The "Knows About" Relationship)

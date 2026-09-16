@@ -1,5 +1,6 @@
 ---
 title: OOP - Foundation Pillars
+sidebar_position: 1
 ---
 
 Object-Oriented Programming is a programming approach that organizes code around objects. An object contains data, called **fields**, and behavior, called **methods**.
